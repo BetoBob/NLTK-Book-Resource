@@ -1,10 +1,34 @@
 # Plan
 
-1. provide solutions to all book exercises while providing initial notes from chapters
-   * I generally want to complete the solutions and rough drafts of my notes first so I can get a better idea of what python skills I should focus in on exploring in extra detail
-2. once complete, go back and make notes more readable and complete; also provide links to other resources so person learning python can expand skills (including links to data visualization libraries and beginning machine learning resources for relevant sections)
-3. As earlier chapters are in their 'complete' form (both notes and solutions are in finalized), start sending out a link to the resource to students as well as beginning programmers online for feedback on the resource
-4. Make necessary changes based on feedback provided
+Below is my intended approach of completing this project. At a bare minimum, I would like to have detailed solutions to each chapter's exercises and provide a setup tutorial to get learners familiar with a python environment to run the NLTK code in (steps 1-2 and some of 3). Further resources will be added to the notes of each chapter as time permits.
+
+1. create a setup 
+2. provide solutions to all book exercises while providing code example notes and solutions from chapters
+   * start chapter notes by including all code snippets in the book in an easily accessible format
+   * complete chapter exercises
+   * create blank exercise template for students to work on their code
+3. once complete, go back and make notes more readable and complete; also provide links to other resources so person learning python can expand skills (including links to data visualization libraries and beginning machine learning resources for relevant sections)
+4. As earlier chapters are in their 'complete' form (both notes and solutions are in finalized), start sending out a link to the resource to students as well as beginning programmers online for feedback on the resource
+5. Make necessary changes based on feedback provided
+
+## Solutions
+
+* the first step for each chapter will be to provide complete and verbose solutions to chapter exercises
+* following the creation of the book's solutions, a blank template will be created for students to work on exercises on their own; some code will be provided if necessary
+
+## Chapter Notes
+
+* my intentions for the notes are to be identical to the book's code, just in Jupyter notebooks so it's an easily runnable format so learners can easily manipulate the code
+  * the code should be pretty legible and organized, and small notes next to the code would be nice to supplement the code (perhaps give more context to what certain syntax is doing)
+  * my intention isn't to rewrite the book, but to provide more context in areas that might not be detailed enough and provide an environment that is easy to program in
+* content to add to the notes at the top can include:
+  * a list of functions used throughout the chapter (a sort of cheat sheet for doing exercises)
+  * links to other helpful resources 
+  * this will be a stretch goal; the highest priority will be providing adequate solutions for the chapters
+
+* a separate notebook will be provided to help the user get started with using the notes and exercise modules in general
+  * this will give an overview of how to install and use python, Jupyter Notebooks and Markdown
+  * this will also provide resource for learning very basic syntax for python if the book's  
 
 ## To-Do
 
@@ -12,12 +36,15 @@
 * create table of contents in the README
 * create a cheatsheet for various NLTK library calls?
   * potentially include this in the beginning of each chapter notes to help people learning NLTK
-* learn more about GitHub issue tracking 
+* learn more about GitHub issue tracking
+* find a way in google colab to more quickly download NLTK book resources
+  *  current method: https://stackoverflow.com/questions/49085673/download-all-nltk-packages-in-google-colaboratory-at-once
+  * `nltk.download('book')`
 
-## Project Logistics
+### Project Logistics
 
 * find the expected completion date of this project
-* verify that the project is 
+* verify that the project has been approved by the CSC Department
 
 ### Feedback
 
