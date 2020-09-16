@@ -25,10 +25,12 @@ Below is my intended approach of completing this project. At a bare minimum, I w
   * a list of functions used throughout the chapter (a sort of cheat sheet for doing exercises)
   * links to other helpful resources 
   * this will be a stretch goal; the highest priority will be providing adequate solutions for the chapters
-
 * a separate notebook will be provided to help the user get started with using the notes and exercise modules in general
   * this will give an overview of how to install and use python, Jupyter Notebooks and Markdown
   * this will also provide resource for learning very basic syntax for python if the book's  
+* think about whether or not output should be shown by default or if all output should be cleared in these notes
+  * might be nice to have it clear so readers can run the code in real time
+  * output is already shown in the textbook; the purpose of having it in the notebook is to modify the code or to see it run in real time (to actually do it)
 
 ## To-Do
 

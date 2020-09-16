@@ -8,7 +8,7 @@
 
 |             | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 | ----------- | ----- | ----- | ----- | ----- | ----- |
-| **Week 1**  | 4:10  |       |       |       |       |
+| **Week 1**  | 4:10  | 1:00  |       |       |       |
 | **Week 2**  |       |       |       |       |       |
 | **Week 3**  |       |       |       |       |       |
 | **Week 4**  |       |       |       |       |       |
@@ -20,6 +20,8 @@
 | **Week 10** |       |       |       |       |       |
 | **Week 11** |       |       |       |       |       |
 
+Time measured in hours of consistent work
+
 ## Week 1
 
 ### w1d1: 09/14/20
@@ -28,3 +30,7 @@
 * created first documents / plans related to the project
 * finished most of the setup notebook
 
+### w1d2: 09/15/20
+
+* added more content to setup page
+* starting notes in Chapter 1
