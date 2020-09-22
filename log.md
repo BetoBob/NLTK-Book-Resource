@@ -9,7 +9,7 @@
 |             | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 | ----------- | ----- | ----- | ----- | ----- | ----- |
 | **Week 1**  | 4:10  | 1:00  | 2:30  |       |       |
-| **Week 2**  |       |       |       |       |       |
+| **Week 2**  | 3:00  |       |       |       |       |
 | **Week 3**  |       |       |       |       |       |
 | **Week 4**  |       |       |       |       |       |
 | **Week 5**  |       |       |       |       |       |
@@ -38,3 +38,9 @@ Time measured in hours of consistent work
 ### w1d3: 09/17/20
 
 * continued adding to Chapter 1 Notes
+
+### w2d1: 09/21/20
+
+* finished Chapter 1 Notes
+* began Chapter 2 Notes
+* created Afterword page
