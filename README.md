@@ -17,7 +17,7 @@
 * [Chapter 1 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/1%20-%20Exercises.ipynb)
 * [Chapter 1 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/1%20-%20Exercise%20Solutions.ipynb)
 
-## Chapter 2
+### Chapter 2
 
 * [Chapter 2 Text](https://www.nltk.org/book/ch02.html)
 
