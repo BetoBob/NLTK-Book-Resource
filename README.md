@@ -20,3 +20,11 @@
 ## Chapter 2
 
 * [Chapter 2 Text](https://www.nltk.org/book/ch02.html)
+
+* [Chapter 2 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/2%20-%20Notes.ipynb)
+* [Chapter 2 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/2%20-%20Exercises.ipynb)
+* [Chapter 2 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/2%20-%20Exercise%20Solutions.ipynb)
+
+
+
+* **Note:** rename these files so they are easier to access in the links
