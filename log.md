@@ -6,51 +6,15 @@
   * at a bare minimum, all solutions to challenge problems should be provided in the chapter at this point
 * git commit log format: `w1d1 'addition'`
 
-|             | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-| ----------- | ----- | ----- | ----- | ----- | ----- |
-| **Week 1**  | 4:10  | 1:00  | 2:30  |       |       |
-| **Week 2**  | 3:00  | 3:00  |       |       |       |
-| **Week 3**  | 4:45  |       |       |       |       |
-| **Week 4**  |       |       |       |       |       |
-| **Week 5**  |       |       |       |       |       |
-| **Week 6**  |       |       |       |       |       |
-| **Week 7**  |       |       |       |       |       |
-| **Week 8**  |       |       |       |       |       |
-| **Week 9**  |       |       |       |       |       |
-| **Week 10** |       |       |       |       |       |
-| **Week 11** |       |       |       |       |       |
-
-Time measured in hours of consistent work (breaks are not included in recorded time).
-
-## Week 1
-
-### w1d1: 09/14/20
-
-* created initial repository with existing notes and solutions that I have previously created for my NLP class
-* created first documents / plans related to the project
-* finished most of the setup notebook
-
-### w1d2: 09/15/20
-
-* added more content to setup page
-* starting notes in Chapter 1
-
-### w1d3: 09/17/20
-
-* continued adding to Chapter 1 Notes
-
-### w2d1: 09/21/20
-
-* finished Chapter 1 Notes
-* began Chapter 2 Notes
-* created Afterword page
-
-### w2d2: 09/21/20
-
-* continued Chapter 2 Notes
-
-### w3d1: 09/29/20
-
-* continued Chapter 2 Notes
-* added more resources for text IDEs
-* started questionnaire notes
+|            | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+| ---------- | ----- | ----- | ----- | ----- | ----- |
+| **Week 0** | 4:10  | 1:00  | 2:30  |       |       |
+| **Week 1** | 3:00  | 3:00  |       |       |       |
+| **Week 2** | 4:45  | 3:00  | 5:00  |       |       |
+| **Week 3** |       |       |       |       |       |
+| **Week 4** |       |       |       |       |       |
+| **Week 5** |       |       |       |       |       |
+| **Week 6** |       |       |       |       |       |
+| **Week 7** |       |       |       |       |       |
+| **Week 8** |       |       |       |       |       |
+| **Week 9** |       |       |       |       |       |

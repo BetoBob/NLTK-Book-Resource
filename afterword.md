@@ -15,3 +15,10 @@ NLTK is a great library for educational purposes, but there are many more python
 * SciPy
 * SpaCy
 
+
+
+### Projects to Get Involved In
+
+* [Kaggle](https://www.kaggle.com/)
+* [National Novel Generation Competition](https://nanogenmo.github.io/)
+
