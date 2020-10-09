@@ -3,8 +3,11 @@
 * Senior Project 2020 
 * [Book Link](http://www.nltk.org/book)
 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/betobob/NLTK-Book-Resource)
+
+## About
+
+This repository is currently under construction. It will be a place for NLTK code examples and solutions to exercise problems in the book. 
 
 ## Table of Contents
 
