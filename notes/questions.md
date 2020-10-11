@@ -22,6 +22,14 @@ This person will have at the very least some introductory course to python. They
 
 ## Communities to Ask
 
+### Cal Poly
+
+* NLP class (check if currently NLP elective this quarter)
+* maybe look into sending this to students in Data 301
+* Humanities? (need to do research on this)
+
+### Online
+
 * r/LanguageTechnology
   * https://www.reddit.com/r/LanguageTechnology/comments/j26ztt/using_nlp_to_learn_python/
 * r/LearningProgramming
