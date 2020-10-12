@@ -34,8 +34,6 @@ It's intended students use the **Notes and Examples** page as they read the text
 
 This repository is currently under construction. Content for new chapters will be added throughout the year.
 
-
-
 ## Resources
 
 * Survey (currently unavailable)
@@ -54,6 +52,10 @@ This repository is currently under construction. Content for new chapters will b
 
 * [NLTK Book Link](http://www.nltk.org/book)
 * [NLTK Book Repository](https://github.com/nltk/nltk_book)
+
+
+
+<br />
 
 
 
