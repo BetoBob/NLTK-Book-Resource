@@ -2,6 +2,7 @@
 
 * Senior Project 2020 
 * [Book Link](http://www.nltk.org/book)
+* [NLTK Book Repository](https://github.com/nltk/nltk_book)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/betobob/NLTK-Book-Resource)
 
@@ -27,3 +28,4 @@ This repository is currently under construction. It will be a place for NLTK cod
 * [Chapter 2 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/2_notes.ipynb)
 
 * [Chapter 2 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/2_solutions.ipynb)
+
