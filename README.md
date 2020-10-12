@@ -2,7 +2,9 @@
 
 * Senior Project 2020
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/betobob/NLTK-Book-Resource)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb)
+
+
 
 ## About
 
@@ -14,22 +16,37 @@ This repository is intended to be a starting point for students wanting to learn
 * machine learning
 * readable structured program writing
 
-This repository will teach students how to set up an environment to run python code for learning NLTK and to learn more Data Science concepts in the future. Each chapter of the NLTK book has a set of [Jupyter Notebooks](https://jupyter.org/) that includes:
+### Program
 
-1. a **Notes and Examples** notebook with runnable code from examples provided in the book
+The contents of this repository will teach students how to set up an environment to run python code for learning NLTK and to learn more Data Science concepts in the future. Each chapter of the NLTK book has a set of [Jupyter Notebooks](https://jupyter.org/) that are described in this table:
 
-2. an **Exercises** notebook to work on course material
+| Type                   | File Name           | Description                                                  |
+| ---------------------- | ------------------- | ------------------------------------------------------------ |
+| **Notes and Examples** | `#_notes.ipynb`     | notebook with runnable code from examples provided in the book as well as tips and resources to accompany the text |
+| **Exercises**          | `#_exercises.ipynb` | notebook to work on chapter exercises                        |
+| **Exercise Solutions** | `#_solutions.ipyb`  | selected solutions to review challenging material            |
 
-3. selected **Exercise Solutions** to review challenging material
+The [Initial Setup Notebook](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb) explains how to run and save these notebooks. Students can choose to use either an [Anaconda](https://www.anaconda.com/products/individual) installation of NLTK and Jupyter Notebooks on their computer, or use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#) in a web browser (with some limitations). Instructions to install and use Anaconda or Google Colab are provided in the Initial Setup Notebook. 
 
-The [Initial Setup Notebook](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb) explains how to run and save these notebooks. It's intended students use the **Notes and Examples** page as they read the text to understand how the python code is run, and to edit python code to have a better conceptual understanding of what the code is doing. Tips and references to modern resources such as datasets, Python libraries, APIs and tutorials will be given throughout these notes as well. Students are also encouraged to try the chapter exercises in the **Exercises** notebook, and use the **Exercise Solutions** notebooks to understand more challenging problems.
+![Chapter 1 Screen](./notes/img/ch1_screen.png)
+
+It's intended students use the **Notes and Examples** page as they read the text to understand how the python code is run, and to edit python code to have a better conceptual understanding of what the code is doing. Tips and references to modern resources such as datasets, Python libraries, APIs and tutorials will be given throughout these notes as well. Students are also encouraged to try the chapter exercises in the **Exercises** notebook, and use the **Exercise Solutions** notebooks to understand more challenging problems.
 
 This repository is currently under construction. Content for new chapters will be added throughout the year.
+
+
 
 ## Resources
 
 * Survey (currently unavailable)
 * Feedback form (currently unavailable)
+
+### Platforms
+
+* [Jupyter Notebooks](https://jupyter.org/)
+
+* [Anocanda Individual Edition](https://www.anaconda.com/products/individual)
+* [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
 
 ### NLTK
 
@@ -37,6 +54,8 @@ This repository is currently under construction. Content for new chapters will b
 
 * [NLTK Book Link](http://www.nltk.org/book)
 * [NLTK Book Repository](https://github.com/nltk/nltk_book)
+
+
 
 ## Table of Contents 
 
