@@ -71,16 +71,15 @@ This repository is **currently under construction**. Content for new chapters wi
 ### 2. Accessing Text Corpora and Lexical Resources
 
 * [Chapter 2 Text](https://www.nltk.org/book/ch02.html)
-
 * [Chapter 2 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_notes.ipynb)
-
-* [Chapter 2 Exercise Solutions (Incomplete)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_solutions.ipynb)
+* [Chapter 2 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_exercises.ipynb)
+* [Chapter 2 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_solutions.ipynb)
 
 ### 3. Processing Raw Text
 
 * [Chapter 3 Text](http://www.nltk.org/book/ch03)
-* [Chapter 3 Notes and Examples (Incomplete)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_notes.ipynb)
-* [Chapter 3 Exercise Solutions (Incomplete)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_solutions.ipynb)
+* [Chapter 3 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_notes.ipynb)
+* [Chapter 3 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_solutions.ipynb)
 
 ### 4. Writing Structured Programs
 
