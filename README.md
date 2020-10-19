@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb)
 
+This repository is **currently under construction**. Content for new chapters will be added throughout the year. For any inquiries email me at rehensle@calpoly.edu and for any specific issues or suggestions with the Jupyter Notebooks, create a new issue in the **Issues** tab of this repository.
+
+* [Feedback Survey](https://forms.gle/cHCFQGzR7AhT7iHN7)
+
 
 
 ## About
@@ -33,11 +37,6 @@ The **Notes and Examples** notebook can be used to run and edit example code in 
 ![Chapter 1 Screen](./notes/img/ch1_screen.png)
 
 ## Resources
-
-This repository is **currently under construction**. Content for new chapters will be added throughout the year. For any inquiries email me at rehensle@calpoly.edu and for any specific issues or suggestions with the Jupyter Notebooks, create a new issue in the **Issues** tab of this repository.
-
-* Survey (currently unavailable)
-* Feedback Form (currently unavailable)
 
 ### Platforms
 
@@ -79,6 +78,7 @@ This repository is **currently under construction**. Content for new chapters wi
 
 * [Chapter 3 Text](http://www.nltk.org/book/ch03)
 * [Chapter 3 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_notes.ipynb)
+* [Chapter 3 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_exercises.ipynb)
 * [Chapter 3 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_solutions.ipynb)
 
 ### 4. Writing Structured Programs
@@ -113,6 +113,7 @@ This repository is **currently under construction**. Content for new chapters wi
 
 * [Chapter 11 Text](http://www.nltk.org/book/ch11)
 
-### 12.
+### 12. Afterword: Facing the Language Challenge
 
+* [Chapter 12 Text](https://www.nltk.org/book/ch12.html)
 * [Afterword](https://github.com/BetoBob/NLTK-Book-Resource/blob/master/afterword.md)
