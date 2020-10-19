@@ -1,0 +1,6 @@
+fuzzy 53
+cat 9
+triangle 3
+square 4
+octopus 8
+bob 808

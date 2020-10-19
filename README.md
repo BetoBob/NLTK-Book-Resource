@@ -113,4 +113,6 @@ This repository is **currently under construction**. Content for new chapters wi
 
 * [Chapter 11 Text](http://www.nltk.org/book/ch11)
 
-* s
+### 12.
+
+* [Afterword](https://github.com/BetoBob/NLTK-Book-Resource/blob/master/afterword.md)
