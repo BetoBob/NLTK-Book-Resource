@@ -1,16 +1,13 @@
-# Chapter 3 Notes
+# 3. Processing Raw Text
 
-* check if `pprint` library is used in the future or just a part of Python 2 requirements
-* possibly include a link about the python library Selenium?
+## Subsections
 
-## 3.1
-
-* look into doing a proper example of search engine results,  specifically for the **Your Turn** question
-  * preferably not using a paid API like Google or Bing
-  * Duck Duck Go does not work for the **Your Turn** example because [it does not show the number of search results](https://help.duckduckgo.com/duckduckgo-help-pages/results/number-of-results/)
-
-* consider adding example for extracting text from a PDF if time permits
-
-## Exercises
-
-* try to make better formatting for 6-7, 23-24 lettered lists
+1. Accessing Text from the Web and from Disk
+2. Strings: Text Processing at the Lowest Level
+3. Text Processing with Unicode
+4. Regular Expressions for Detecrting Word Patters
+5. Useful Applications of Regular Expressions
+6. Normalizing Text
+7. Regular Expressions for Tokenizing Text
+8. Segmentation
+9. Formatting: From Lists to Strings
