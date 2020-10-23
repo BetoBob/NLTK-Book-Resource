@@ -11,3 +11,7 @@
 7. Regular Expressions for Tokenizing Text
 8. Segmentation
 9. Formatting: From Lists to Strings
+
+## Additional Resources
+
+* [Python Documentation on Regular Expressions](https://docs.python.org/3/howto/regex.html)

@@ -1,0 +1,14 @@
+
+__pycache__
+*.pyc
+
+# swap files
+*.swp
+
+# sym links to src/
+test/commondriver.py
+test/litegrade.py
+test/questiondriver.py
+test/apidriver.py
+test/modulemanager.py
+test/simulate_notebook.py
