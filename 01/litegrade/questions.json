@@ -1,0 +1,56 @@
+{
+	"questions": {
+		"apples_question": {
+			"question_type": "multiple-choice",
+			"prompt": "How do you like them apples?",
+			"choices_label_type": "letters",
+			"choices": [
+				{
+					"description": "They're great!",
+					"explanation": "Even though Matt Damon asked, the question isn't referring to apples"
+				},
+				{
+					"description": "They're my favorite!",
+					"explanation": "Though they keep the doctor away, the question isn't referring to apples"
+				},
+				{
+					"description": "I'd rather have an orange",
+					"explanation": "Though citrus is good for you, the question isn't referring to fruit"
+				},
+				{
+					"description": "None of the above",
+					"explanation": "'apples' is a metaphor"
+				}
+			],
+			"correct_choice": 3
+		},
+		"gravy_question": {
+			"question_type": "multiple-choice",
+			"prompt": "Do you like gravy in your cereal?",
+			"choices_label_type": "numbers",
+			"choices": [
+				{
+					"description": "Obsolutely not!",
+					"explanation": "Cereal tastes much better with cereal, a breakfast meal"
+				},
+				{
+					"description": "Only on the side",
+					"explanation": "Gravy on the side makes more sense. However, it's not suited for breakfast"
+				},
+				{
+					"description": "Uhh, yeah! Gravy is my favorite",
+					"explanation": "Though gravy is good, it's better suited for dinner"
+				}
+			],
+			"correct_choice": 0
+		},
+		"cleverness_question": {
+			"question_type": "true-or-false",
+			"prompt": "Are these questions clever?",
+			"correct_choice": "true",
+			"explaination": "They're so good, an explaination is not needed"
+		}
+	}
+}
+		
+
