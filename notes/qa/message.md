@@ -16,9 +16,7 @@ This resource I am creating is still under construction and I'm looking for feed
 - [Setup Notebook (begin here!)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb#scrollTo=B374-rVO3k8-)
 - [Survey for Resource](https://forms.gle/rmFGUHrDFHbpwpcM7)
 
-## To Check
-
-### Already Sent
+## Sent
 
 * LanguageTechnology
 * LearnProgramming
