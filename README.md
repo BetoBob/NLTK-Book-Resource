@@ -36,24 +36,6 @@ The **Notes and Examples** notebook can be used to run and edit example code in 
 
 ![Chapter 1 Screen](./notes/img/ch1_screen.png)
 
-## Resources
-
-### Platforms
-
-* [Jupyter Notebooks](https://jupyter.org/)
-
-* [Anocanda Individual Edition](https://www.anaconda.com/products/individual)
-* [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
-
-### NLTK
-
-* [NLTK Documentation](https://www.nltk.org/)
-
-* [NLTK Book Link](http://www.nltk.org/book)
-* [NLTK Book Repository](https://github.com/nltk/nltk_book)
-
-
-
 
 
 ## Table of Contents 
@@ -117,3 +99,19 @@ The **Notes and Examples** notebook can be used to run and edit example code in 
 
 * [Chapter 12 Text](https://www.nltk.org/book/ch12.html)
 * [Afterword](https://github.com/BetoBob/NLTK-Book-Resource/blob/master/afterword.md)
+
+
+
+## Resources
+
+* [Jupyter Notebooks](https://jupyter.org/)
+
+* [Anocanda Individual Edition](https://www.anaconda.com/products/individual)
+* [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
+
+### NLTK
+
+* [NLTK Documentation](https://www.nltk.org/)
+
+* [NLTK Book Link](http://www.nltk.org/book)
+* [NLTK Book Repository](https://github.com/nltk/nltk_book)
