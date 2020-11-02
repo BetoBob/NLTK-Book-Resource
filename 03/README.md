@@ -1,4 +1,4 @@
-# 3. Processing Raw Text
+# [3. Processing Raw Text](http://www.nltk.org/book/ch03.html)
 
 | Section                                                      | Sub-Sections                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |

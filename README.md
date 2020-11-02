@@ -4,9 +4,11 @@
 
 This repository is **currently under construction**. Content for new chapters will be added throughout the year. For any inquiries email me at rehensle@calpoly.edu and for any specific issues or suggestions with the Jupyter Notebooks, create a new issue in the **Issues** tab of this repository.
 
-* [Feedback Survey](https://forms.gle/cHCFQGzR7AhT7iHN7)
-
-
+* [Quick Feedback Survey](https://forms.gle/cPhBVg7JJybUab8F6)
+  * This survey is for leaving a quick comment about the repository; anyone is welcome to share feedback here!
+* [Detailed Feedback Survey](https://forms.gle/cHCFQGzR7AhT7iHN7)
+  * This survey is designed for people who have completed the setup process and have tried one of the Chapter Notes / Exercises
+  * There are multiple questions, but the survey is short and each question is optional
 
 ## About
 
