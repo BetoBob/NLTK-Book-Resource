@@ -1,8 +1,10 @@
 # NLTK-Book-Resource
 
+A repository with example code, exercises and solutions from the [Natural Language Toolkit Book](https://www.nltk.org/book/).
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb)
 
-This repository is **currently under construction**. Content for new chapters will be added throughout the year. For any inquiries email me at rehensle@calpoly.edu and for any specific issues or suggestions with the Jupyter Notebooks, create a new issue in the **Issues** tab of this repository.
+Content for this book is continuously being added for this project. For any inquiries email me at rehensle@calpoly.edu and for any specific issues or suggestions with the Jupyter Notebooks, create a new issue in the **Issues** tab of this repository.
 
 * [Quick Feedback Form](https://forms.gle/cPhBVg7JJybUab8F6)
   * This link is for leaving a quick comment about the repository; anyone is welcome to share feedback here!
