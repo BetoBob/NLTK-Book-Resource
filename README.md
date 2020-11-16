@@ -73,6 +73,7 @@ The **Notes and Examples** notebook can be used to run and edit example code in 
 ### 4. Writing Structured Programs
 
 * [Chapter 4 Text](http://www.nltk.org/book/ch04)
+* [Chapter 4 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/04/04_notes.ipynb)
 
 ### 5. Categorizing and Tagging Words
 
