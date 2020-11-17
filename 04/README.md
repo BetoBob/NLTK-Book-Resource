@@ -11,8 +11,6 @@
 | 7. [Algorithm Design](https://www.nltk.org/book/ch04.html#algorithm-design) | Recursion<br />Space-Time Tradeoffs<br />Dynamic Programming |
 | 8. [Sample of Python Libraries](https://www.nltk.org/book/ch04.html#a-sample-of-python-libraries) | Matplotlib<br />NetworkX<br />csv<br />NumPy                 |
 
-
-
 ## Resources
 
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
@@ -21,8 +19,7 @@
 
 * [The Python Debugger Documentation](https://docs.python.org/3/library/pdb.html)
   * [Pdb Commands](https://web.stanford.edu/class/physics91si/2013/handouts/Pdb_Commands.pdf)
-* [Python Unit testing Framework](https://docs.python.org/3/library/unittest.html): a helpful way to run several tests on a python program
-  * this test suite is especially helpful for **regression testing**, because it allows you to save many test cases and run them together
+* [Python Unit testing framework](https://docs.python.org/3/library/unittest.html): a helpful way to run several tests on a python program
 
 ### Important Python Libraries
 
