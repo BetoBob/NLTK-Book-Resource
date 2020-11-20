@@ -47,68 +47,23 @@ The **Notes and Examples** notebook can be used to run and edit example code in 
 
 ## Table of Contents 
 
-* [Initial Setup (Start Here!)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb)
+These links open up to Google Colab notebooks. To learn how to use Google Colab (or Jupyter Notebooks), click on the [Initial Setup Notebook](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb).
 
-### 1. Language Processing and Python
-
-* [Chapter 1 Text](http://www.nltk.org/book/ch01)
-* [Chapter 1 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/01_notes.ipynb)
-* [Chapter 1 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/01_exercises.ipynb)
-* [Chapter 1 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/01_solutions.ipynb)
-
-### 2. Accessing Text Corpora and Lexical Resources
-
-* [Chapter 2 Text](https://www.nltk.org/book/ch02.html)
-* [Chapter 2 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_notes.ipynb)
-* [Chapter 2 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_exercises.ipynb)
-* [Chapter 2 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_solutions.ipynb)
-
-### 3. Processing Raw Text
-
-* [Chapter 3 Text](http://www.nltk.org/book/ch03)
-* [Chapter 3 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_notes.ipynb)
-* [Chapter 3 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_exercises.ipynb)
-* [Chapter 3 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_solutions.ipynb)
-
-### 4. Writing Structured Programs
-
-* [Chapter 4 Text](http://www.nltk.org/book/ch04)
-* [Chapter 4 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/04/04_notes.ipynb)
-
-### 5. Categorizing and Tagging Words
-
-* [Chapter 5 Text](http://www.nltk.org/book/ch05)
-
-### 6. Learning to Classify Text
-
-* [Chapter 6 Text](http://www.nltk.org/book/ch06)
-
-### 7. Extracting Information from Text
-
-* [Chapter 7 Text](http://www.nltk.org/book/ch07)
-
-### 8. Analyzing Sentence Structure
-
-* [Chapter 8 Text](http://www.nltk.org/book/ch08)
-
-### 9. Building Feature Based Grammars
-
-* [Chapter 9 Text](http://www.nltk.org/book/ch09)
-
-### 10. Analyzing the Meaning of Sentences
-
-* [Chapter 10 Text](http://www.nltk.org/book/ch10)
-
-### 11. Managing Linguistic Data
-
-* [Chapter 11 Text](http://www.nltk.org/book/ch11)
-
-### 12. Afterword: Facing the Language Challenge
-
-* [Chapter 12 Text](https://www.nltk.org/book/ch12.html)
-* [Afterword](https://github.com/BetoBob/NLTK-Book-Resource/blob/master/afterword.md)
-
-
+| Chapter                                             | Contents                                                     |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| 0. **Preface**                                      | [Preface Text](https://www.nltk.org/book/ch00.html)<br />[Initial Setup (Start Here!)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb) |
+| 1. **Language Processing and Python**               | [Chapter 1 Text](http://www.nltk.org/book/ch01)<br />[Chapter 1 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/01_notes.ipynb) <br />[Chapter 1 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/01_exercises.ipynb)<br />[Chapter 1 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/01/01_solutions.ipynb) |
+| 2. **Accessing Text Corpora and Lexical Resources** | [Chapter 2 Text](https://www.nltk.org/book/ch02.html)<br />[Chapter 2 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_notes.ipynb)<br />[Chapter 2 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_exercises.ipynb)<br />[Chapter 2 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/02/02_solutions.ipynb) |
+| 3. **Processing Raw Text**                          | [Chapter 3 Text](http://www.nltk.org/book/ch03)<br />[Chapter 3 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_notes.ipynb)<br />[Chapter 3 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_exercises.ipynb)<br />[Chapter 3 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/03/03_solutions.ipynb) |
+| 4. **Writing Structured Programs**                  | [Chapter 4 Text](http://www.nltk.org/book/ch04)<br />[Chapter 4 Notes and Examples](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/04/04_notes.ipynb)<br />[Chapter 4 Exercises](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/04/04_exercises.ipynb)<br />[Chapter 4 Exercise Solutions](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/04/04_solutions.ipynb) |
+| 5. **Categorizing and Tagging Words**               | [Chapter 5 Text](http://www.nltk.org/book/ch05)              |
+| 6. **Learning to Classify Text**                    | [Chapter 6 Text](http://www.nltk.org/book/ch06)              |
+| 7. **Extracting Information from Text**             | [Chapter 7 Text](http://www.nltk.org/book/ch07)              |
+| 8. **Analyzing Sentence Structure**                 | [Chapter 8 Text](http://www.nltk.org/book/ch08)              |
+| 9. **Building Feature Based Grammars**              | [Chapter 9 Text](http://www.nltk.org/book/ch09)              |
+| 10. **Analyzing the Meaning of Sentences**          | [Chapter 10 Text](http://www.nltk.org/book/ch10)             |
+| 11. **Managing Linguistic Data**                    | [Chapter 11 Text](http://www.nltk.org/book/ch11)             |
+| 12. **Afterword: Facing the Language Challenge**    | [Chapter 12 Text](https://www.nltk.org/book/ch12.html)       |
 
 ## Resources
 
