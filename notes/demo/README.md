@@ -60,7 +60,7 @@ While the feedback forms for the NLTK resource have not yet been completed, ther
 
 ![experience](img/experience.png)
 
-![intro_vs_NLP](img/intro_vs_NLP.png)
+![preference](img/preference.png)
 
 As of right now, it looks like more users who are interested in using this resource have Python experience and would prefer to move quickly through the introductory Python sections of the book (Chapters 1 - 4). In the NLTK Book Study Group discord, several users are linguistics students, some of whom have had experience using Python and others who are new to Python. A majority of members on the server tend to have at least some background using Python and data science tools. This is because a majority of members introduced to the projects were from Data Science learning communities online. 
 
