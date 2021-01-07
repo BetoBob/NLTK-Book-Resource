@@ -6,9 +6,6 @@ A repository with example code, exercises and solutions from the [Natural Langua
 
 Content for this book is continuously being added for this project. For any inquiries email me at rehensle@calpoly.edu and for any specific issues or suggestions with the Jupyter Notebooks, create a new issue in the **Issues** tab of this repository.
 
-* [Discord Group](https://discord.gg/7XrEgH6ASt)
-  * this is an online study group where you can have discussions on content in the book
-  * you can also ask questions / suggest improvements about the NLTK-Book-Resource here
 * [Quick Feedback Form](https://forms.gle/cPhBVg7JJybUab8F6)
   * This link is for leaving a quick comment about the repository; anyone is welcome to share feedback here!
 * [Detailed Feedback Survey](https://forms.gle/cHCFQGzR7AhT7iHN7)
